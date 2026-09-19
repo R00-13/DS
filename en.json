@@ -1,0 +1,295 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "team": "Team",
+    "blog": "Blog",
+    "success": "Success Stories",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "enroll": "Enroll Now"
+  },
+  "footer": {
+    "about": "From users to creators of technology. Programming, AI, robotics and digital skills for children and young people across North Macedonia.",
+    "explore": "Explore",
+    "locations": "Locations",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies"
+  },
+  "cookies": {
+    "title": "We value your privacy",
+    "text": "Would you like to allow optional analytics cookies to help us understand site visits, or continue with only the essential cookies needed to run the site?",
+    "acceptAll": "Accept All Cookies",
+    "rejectAll": "Essential Only",
+    "manage": "Manage"
+  },
+  "home": {
+    "hero": {
+      "tag": "Trusted by 10,000+ parents in North Macedonia",
+      "title": "From <span class=\"accent\">users</span> to creators of technology.",
+      "lede": "Programming, AI, robotics and digital skills for children and young people, aged 8 to 18 — online or in person, at six locations across the country.",
+      "cta1": "Enroll Now",
+      "cta2": "Explore Programs",
+      "chip1": "Parents who trust us",
+      "chip2": "Alumni in tech studies or careers",
+      "chip3": "Systems behind every lesson",
+      "chip4": "Cities across North Macedonia"
+    },
+    "stats": {
+      "card1": { "label": "Parents who trust us", "text": "We're not just a school — we're an edtech R&D company that builds its own teaching methodology from the ground up.", "link": "About us →" },
+      "card2": { "value": "4 systems", "label": "Working behind every lesson", "text": "DBlox, Houses, the Parent App and DSOS — AI monitors every class and flags when a group starts falling behind.", "link": "See the ecosystem →" },
+      "card3": { "label": "Alumni in tech", "text": "We don't measure results with a certificate, but with where our students end up after they graduate.", "link": "Success stories →" }
+    },
+    "programs": {
+      "eyebrow": "Programs by age group",
+      "title": "Choose the right program for your child's age and level.",
+      "lede": "Our programs are structured by age group and learning intensity, to build strong skills today for tomorrow's opportunities.",
+      "years": "years",
+      "learnMore": "Learn more",
+      "p1": { "step": "First step", "desc": "Logic and the basics of programming, from first blocks to Scratch.", "meta": "90 lessons · 4 stages", "li1": "Thinks like a programmer before touching a keyboard", "li2": "Builds their first playable game" },
+      "p2": { "step": "Next step", "desc": "Foundations of web and mobile development, plus an introduction to AI.", "meta": "111 lessons · 4 stages", "li1": "Real coding in JavaScript and Python", "li2": "Understands the basics of machine learning" },
+      "p3": { "step": "Advanced level", "desc": "Full web application development, from idea to real users.", "meta": "172 lessons · 5 stages", "li1": "Builds a portfolio and a CV that stands out", "li2": "Ships products that reach real users" }
+    },
+    "info": {
+      "period": "Period", "periodVal": "September–July (10 months per academic year)",
+      "intensity": "Intensity", "intensityVal": "3 academic hours per week",
+      "group": "Group size", "groupVal": "8–20 students",
+      "method": "Format", "methodVal": "Online or in person"
+    },
+    "ecosystem": {
+      "eyebrow": "The ecosystem",
+      "title": "Our systems make the difference.",
+      "e1": { "title": "Houses", "text": "Learning through play — tasks, projects and participation turn into progress and points for your team." },
+      "e2": { "title": "Parent App", "text": "See your child's progress in real time — updates, messages, schedules and key information on your phone." },
+      "e3": { "title": "DBlox", "text": "The platform where students write real code and compete against the global Digital School network." },
+      "e4": { "title": "DSOS", "text": "An AI system that monitors every class and helps our team spot and solve problems early." }
+    },
+    "quote": {
+      "text": "\"Technology is not learned by watching. It is learned by creating.\"",
+      "cite": "— The Digital School teaching philosophy"
+    },
+    "blog": {
+      "eyebrow": "From the blog",
+      "title": "Ideas, achievements and stories from our digital world.",
+      "viewAll": "View all posts",
+      "readMore": "Read the article →",
+      "post1": { "date": "6 September 2026", "title": "When Numbers Become Intelligence", "text": "Junus Aziri won 2nd place in Gold Mathematics, Gold Science, and Bronze AI Prompt Engineering in Rome." },
+      "post2": { "date": "6 September 2026", "title": "Prompt. Code. Evidence.", "text": "Bardh Sulimani earned Gold in AI Prompt Engineering and Silver in Codementum at the Rome finals." },
+      "post3": { "date": "6 September 2026", "title": "Gold in Code. Gold in AI.", "text": "Bora Abdili took home Gold in both Codementum and AI Prompt Engineering in Rome." }
+    },
+    "cta": {
+      "title": "Start the journey to a digital future, today.",
+      "lede": "Book a free trial class at one of our six locations, or join us online from anywhere."
+    },
+    "who4": {
+      "t1": "Structured curriculum", "d1": "Regularly updated by our R&D team.",
+      "t2": "Expert instructors", "d2": "Practical teaching experience.",
+      "t3": "Certificate", "d3": "Awarded on completion.",
+      "t4": "Ongoing support", "d4": "For students and parents alike."
+    }
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A school built on technology.",
+    "lede": "Digital School is a technology school for children and young people aged 8–18, focused on programming and digital skills.",
+    "motto": {
+      "eyebrow": "Our motto",
+      "title": "Improvise. Code. Overcome.",
+      "text": "Our vision is to equip children and young people with the skills they need to succeed in a world where technology and digital literacy are part of every profession.",
+      "card": "A school that builds its own tools, too."
+    },
+    "who": {
+      "eyebrow": "About the school",
+      "title": "Who we are",
+      "c1": { "title": "Who we are", "text": "A specialized technology education school, with a structured program, regular assessment, and a focus on every student's progress." },
+      "c2": { "title": "What we've built", "text": "A curriculum, platforms and systems developed in-house at Digital School — plus instructors trained in the same methodology." },
+      "c3": { "title": "What we offer", "text": "In-person or online learning. Through programming, students build digital skills, critical thinking, creativity and problem-solving." },
+      "c4": { "title": "Beyond the classroom", "text": "Learning continues through projects, competitions, community and the wider Digital School ecosystem." }
+    },
+    "presence": {
+      "eyebrow": "Our presence",
+      "title": "Where we operate",
+      "lede": "Our students are part of an international Digital School community, with centers in different countries around the world. Digital School Macedonia is part of the global Digital School network.",
+      "hq": "Head office",
+      "branch": "Branch",
+      "viewAll": "See all locations & contacts"
+    },
+    "global": {
+      "eyebrow": "Global network",
+      "title": "Digital School around the world",
+      "lede": "Through this international network we share experience, methodology, ideas and partnership opportunities with Digital School centers across the globe.",
+      "origin": "🇽🇰 Kosovo — Origin · 11 cities"
+    },
+    "founders": {
+      "eyebrow": "Founders",
+      "title": "Co-founders of Digital School Macedonia",
+      "meetTeam": "Meet the whole team",
+      "p1": {
+        "role": "Co-Founder & CEO",
+        "bio": "Arjeta built her career at the intersection of education, management and people development. She holds a Master's degree from the Faculty of Technology and Metallurgy at Ss. Cyril and Methodius University in Skopje and is an engineer in Biochemistry, bringing over 25 years of experience in formal education and more than 20 years in non-formal education. Since 2004 she has led private education institutions. At Digital School Macedonia, she leads with the belief that education shouldn't just prepare young people for the future — it should give them the courage and the ability to create it."
+      },
+      "p2": {
+        "role": "Co-Founder & CTO",
+        "bio": "Azir is a university professor and holds a PhD in Computer Science. As Co-Founder and CTO, he is responsible for the curriculum, innovation and technology direction of the academy. With extensive experience in higher education, research, artificial intelligence and digital transformation, he also mentors startups and has designed innovative programs and strategies at national level. He holds a Digital Transformation certification from MIT Professional Education, USA. At Digital School Macedonia, he leads program development with one clear idea: children shouldn't grow up only as users of technology, but as its creators — able to think, experiment, and build what doesn't exist yet."
+      }
+    }
+  },
+  "programs": {
+    "eyebrow": "Programs & curriculum",
+    "title": "Skills that grow, level after level.",
+    "lede": "Not just a course — a school with systems. Every program is built around a structured, R&D-backed curriculum.",
+    "schedule": "Schedule",
+    "scheduleVal": "Mon–Wed, Tue–Thu, Fri or Sat",
+    "p1": {
+      "subtitle": "Foundations. No syntax yet.",
+      "desc": "Children learn to think like programmers before they touch a keyboard: breaking an idea into steps, building it, and watching it work.",
+      "li1": "Break an idea down into steps that work",
+      "li2": "Build their first playable game",
+      "li3": "Find out why something isn't working and fix it",
+      "li4": "Present their own work to the class"
+    },
+    "p2": {
+      "subtitle": "Games that move. AI that learns.",
+      "desc": "Students move into real coding — JavaScript and Python — and get their first hands-on introduction to AI and machine learning.",
+      "li1": "Create games other people can actually play",
+      "li2": "Write real code in JavaScript and Python",
+      "li3": "Understand how machine learning works",
+      "li4": "Explain their technical solutions clearly"
+    },
+    "p3": {
+      "subtitle": "Build products. Build intelligence.",
+      "desc": "Full web and app development, from a first idea to a product that reaches real users — plus applied AI.",
+      "li1": "Develop a complete product start to finish",
+      "li2": "Publish a mobile app",
+      "li3": "Train models on real datasets",
+      "li4": "Build a professional portfolio"
+    },
+    "rhythm": {
+      "eyebrow": "The rhythm of a lesson",
+      "title": "80 minutes. Five phases.",
+      "lede": "Every class follows a clear rhythm, so students always know what's coming next and can focus on creating.",
+      "s1": "Recap", "s2": "New concept", "s3": "Independent creation", "s4": "Challenge or contest", "s5": "Closing quiz"
+    },
+    "rnd": {
+      "eyebrow": "Curriculum & R&D",
+      "title": "Our curriculum is one of our core assets.",
+      "lede": "Digital School has built its own curriculum as one of the school's core values. Our R&D team continuously integrates new technology trends into it, so every instructor knows exactly what to teach, how to teach it, and which tools to use."
+    },
+    "eco": {
+      "e1": "Learning through play. Tasks, projects and participation turn into progress and points for each student's team, building healthy competition and teamwork.",
+      "e2": "Parents track progress in real time: attendance, milestones, direct messaging with instructors, and the class schedule, all from their phone.",
+      "e3": "Our proprietary coding platform, where students write and submit real code, get instant feedback, and compete with peers across the global Digital School network.",
+      "e4": "An AI system that continuously monitors class performance and engagement, flagging early when a student or group needs extra support."
+    },
+    "opp": {
+      "eyebrow": "Opportunities",
+      "title": "Scholarships, internships and awards.",
+      "lede": "Through competitions, projects and engagement in the Digital School community, students can unlock scholarships, internships and other rewards.",
+      "n1": "01", "t1": "Participation in international competitions",
+      "n2": "02", "t2": "Results in the annual Digital School competitions",
+      "n3": "03", "t3": "Achievements in Houses and engagement in the Student Government",
+      "n4": "04", "t4": "Results in local competitions and activities"
+    }
+  },
+  "team": {
+    "eyebrow": "Our team",
+    "title": "The people behind Digital School.",
+    "lede": "Founders, curriculum designers, and instructors trained in the same teaching methodology.",
+    "roles": {
+      "eyebrow": "Teaching team",
+      "title": "One methodology, taught by specialists.",
+      "lede": "Every Digital School instructor is trained on the same curriculum and lesson structure, then specializes by subject and age group.",
+      "r1": { "title": "Programming Instructors", "text": "Lead weekly classes across all three age groups, from block-based logic to JavaScript and Python." },
+      "r2": { "title": "AI & Robotics Instructors", "text": "Guide students through machine learning fundamentals, dataset training, and hands-on robotics projects." },
+      "r3": { "title": "Curriculum & R&D Team", "text": "Continuously update lesson content and tools so every classroom reflects the latest in technology and pedagogy." },
+      "r4": { "title": "Student & Parent Support", "text": "Ongoing mentoring for students and clear communication with parents throughout every program." }
+    },
+    "join": {
+      "title": "Want to join our teaching team?",
+      "lede": "We're always looking for people who love technology and love teaching it. Get in touch and tell us about yourself.",
+      "cta": "Get in Touch"
+    }
+  },
+  "blog": {
+    "title": "Ideas, achievements and stories.",
+    "lede": "News, successes, projects and updates from Digital School students, staff and the wider community.",
+    "post1": { "text": "Digital School student Junus Aziri represented the school at an international competition in Rome, taking 2nd place in Gold Mathematics, Gold in Science, and Bronze in AI Prompt Engineering — proof that strong logic skills built in the classroom translate directly into results on the world stage." },
+    "post2": { "text": "Bardh Sulimani brought home Gold in AI Prompt Engineering and Silver in Codementum from the Rome finals, showcasing the AI literacy Digital School builds into every advanced-level program." },
+    "post3": { "text": "Bora Abdili swept two Gold medals — in Codementum and in AI Prompt Engineering — capping off a strong year for Digital School's competition team in Rome." },
+    "post4": { "date": "28 August 2026", "title": "Houses Season Kicks Off Again", "text": "Our gamified Houses system returns for a new academic year, turning every project, quiz and challenge into points for your team. Which House will take the crown this year?" },
+    "post5": { "date": "14 August 2026", "title": "A Closer Look at the Parent App", "text": "See how parents across Skopje, Tetovo and Kumanovo use the Digital School Parent App to follow lesson progress, message instructors, and keep track of the schedule." },
+    "post6": { "date": "2 August 2026", "title": "Growing the Global Network", "text": "Digital School's international network keeps expanding, connecting students in North Macedonia with peers and mentors in more than a dozen countries." },
+    "share": { "lede": "If your child has a project, award or milestone to celebrate, we'd love to feature it on the blog." }
+  },
+  "success": {
+    "eyebrow": "Success stories",
+    "title": "Results we measure by where students end up.",
+    "lede": "We don't measure success with a certificate alone, but by the paths our students take after they graduate.",
+    "stat1": { "label": "Alumni in tech", "text": "Continue on to technology-related studies or careers after finishing our programs." },
+    "stat2": { "label": "Families trust us", "text": "Parents across North Macedonia have enrolled their children in a Digital School program." },
+    "stat3": { "value": "14+ countries", "label": "Global alumni network", "text": "Students stay connected to a growing international Digital School community." },
+    "medals": { "eyebrow": "2026 Rome Finals", "title": "Our students on the international stage." },
+    "medal1": "2nd Place Gold — Mathematics · Gold — Science · Bronze — AI Prompt Engineering",
+    "medal2": "Gold — AI Prompt Engineering · Silver — Codementum",
+    "medal3": "Gold — Codementum · Gold — AI Prompt Engineering",
+    "alumni": {
+      "eyebrow": "Alumni network",
+      "title": "The journey continues after graduation.",
+      "lede": "Digital School stays connected with students after they finish a program, through the Alumni community, meet-ups, and further growth opportunities. The Alumni network creates space to share experience, build a portfolio, and stay connected to technology, studies, and industry.",
+      "c1": { "title": "Community gatherings", "text": "Regular meet-ups keep alumni connected to each other and to Digital School." },
+      "c2": { "title": "Portfolio support", "text": "Guidance on turning school projects into a professional portfolio." },
+      "c3": { "title": "Pathway guidance", "text": "Support navigating further studies or entry into the tech industry." }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact us",
+    "title": "Let's talk about your child's next step.",
+    "lede": "Reach out by phone, email, or the form below — or find us at one of our six locations across North Macedonia.",
+    "form": {
+      "eyebrow": "Send a message",
+      "title": "Request information",
+      "success": "Thank you! Your message has been received — our team will get back to you shortly.",
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "city": "Preferred location",
+      "online": "Online",
+      "message": "Message",
+      "messagePh": "Tell us about your child's age and what you're interested in...",
+      "submit": "Send Message",
+      "note": "By submitting this form you agree to our <a href=\"privacy.html\">Privacy Policy</a>.",
+      "errRequired": "This field is required.",
+      "errEmail": "Please enter a valid email address."
+    },
+    "loc": {
+      "skopje": { "addr": "Emin Duraku 1a, Skopje" },
+      "tetovo": { "addr": "Strasho Pindjur 64, Tetovo" },
+      "kumanovo": { "addr": "Goce Delchev 64, Kumanovo" },
+      "debar": { "addr": "Urfi Agolli, Debar" }
+    },
+    "map": { "eyebrow": "Find us", "title": "Our head office in Skopje" }
+  },
+  "privacy": {
+    "eyebrow": "Legal",
+    "title": "Privacy Policy & Cookies",
+    "lede": "How Digital School Macedonia collects, uses and protects your information.",
+    "s1": { "title": "1. Information we collect", "text": "When you fill in our contact or enrollment form, we collect the information you provide directly: your name, email address, phone number, preferred location, and message content. We do not collect payment or identity document information through this website." },
+    "s2": { "title": "2. How we use your information", "text": "We use the information you submit to respond to your inquiry, provide details about our programs, and, if you enroll, to manage your child's registration. We do not sell or rent your personal information to third parties." },
+    "s3": { "title": "3. Data retention", "text": "We retain contact form submissions only for as long as necessary to respond to your inquiry or, for enrolled students, for the duration of the program plus any period required by law." },
+    "s4": { "title": "4. Your rights", "text": "You may request access to, correction of, or deletion of your personal data at any time by contacting us at <a href=\"mailto:info@digitalschool.com.mk\">info@digitalschool.com.mk</a>." },
+    "s5": { "title": "5. Cookies", "text": "We use strictly necessary cookies to remember your cookie preference and to support actions you start yourself, such as submitting a form. With your consent, we also use analytics cookies (such as Google Analytics) and advertising cookies (such as Meta Pixel) to understand site visits and measure the performance of our campaigns. You can decline these at any time — the site works the same either way." },
+    "s6": { "title": "6. Contact", "text": "Questions about this policy can be sent to <a href=\"mailto:info@digitalschool.com.mk\">info@digitalschool.com.mk</a> or any of our locations listed on the <a href=\"contact.html\">Contact page</a>." },
+    "updated": "Last updated: September 2026.",
+    "cookieTable": {
+      "necessaryLabel": "Necessary",
+      "necessaryDesc": "Required for the site to function (e.g. saving your cookie choice, form submission). Always on.",
+      "analyticsLabel": "Analytics",
+      "analyticsDesc": "Google Analytics — helps us understand how visitors use the site. Optional.",
+      "marketingLabel": "Marketing",
+      "marketingDesc": "Meta Pixel — helps us measure the performance of our social media advertising. Optional."
+    }
+  }
+}

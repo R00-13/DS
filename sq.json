@@ -1,0 +1,295 @@
+{
+  "nav": {
+    "home": "Ballina",
+    "about": "Rreth nesh",
+    "programs": "Programet",
+    "team": "Ekipi",
+    "blog": "Blogu",
+    "success": "Storie Suksesi",
+    "contact": "Kontakt",
+    "privacy": "Privatësia",
+    "enroll": "Regjistrohu"
+  },
+  "footer": {
+    "about": "Nga përdorues në krijues të teknologjisë. Programim, AI, robotikë dhe aftësi digjitale për fëmijë dhe të rinj në të gjithë Maqedoninë e Veriut.",
+    "explore": "Eksploro",
+    "locations": "Lokacionet",
+    "contact": "Kontakt",
+    "rights": "Të gjitha të drejtat e rezervuara.",
+    "privacy": "Politika e Privatësisë",
+    "cookies": "Cookies"
+  },
+  "cookies": {
+    "title": "E vlerësojmë privatësinë tuaj",
+    "text": "Dëshironi të lejoni cookies opsionale analitike që na ndihmojnë të kuptojmë vizitat në faqe, apo të vazhdoni vetëm me cookies e domosdoshme për funksionimin e faqes?",
+    "acceptAll": "Prano të Gjitha Cookies",
+    "rejectAll": "Vetëm të Domosdoshmet",
+    "manage": "Menaxho"
+  },
+  "home": {
+    "hero": {
+      "tag": "I besuar nga 10,000+ prindër në Maqedoninë e Veriut",
+      "title": "Nga <span class=\"accent\">përdorues</span> në krijues të teknologjisë.",
+      "lede": "Programim, AI, robotikë dhe aftësi digjitale për fëmijë dhe të rinj, 8 deri 18 vjeç — online ose fizikisht, në gjashtë lokacione në të gjithë vendin.",
+      "cta1": "Regjistrohu",
+      "cta2": "Eksploro Programet",
+      "chip1": "Prindër që na besojnë",
+      "chip2": "Alumni në studime ose karriera teknologjike",
+      "chip3": "Sisteme prapa çdo ore mësimi",
+      "chip4": "Qytete në Maqedoninë e Veriut"
+    },
+    "stats": {
+      "card1": { "label": "Prindër që na besojnë", "text": "Nuk jemi vetëm shkollë — jemi kompani R&D edtech që ndërton metodologjinë e vet mësimore nga themeli.", "link": "Rreth nesh →" },
+      "card2": { "value": "4 sisteme", "label": "Që punojnë prapa çdo ore mësimi", "text": "DBlox, Houses, aplikacioni i prindit dhe DSOS — AI monitoron çdo klasë dhe sinjalizon kur një grup fillon të mbetet prapa.", "link": "Shiko ekosistemin →" },
+      "card3": { "label": "Alumni në teknologji", "text": "Nuk i matim rezultatet me certifikatë, por me atë se ku përfundojnë nxënësit tanë pas diplomimit.", "link": "Storie suksesi →" }
+    },
+    "programs": {
+      "eyebrow": "Programet sipas grupmoshave",
+      "title": "Zgjidh programin e duhur për moshën dhe nivelin e fëmijës.",
+      "lede": "Programet tona janë të strukturuara sipas grupmoshave dhe intensitetit të mësimit, për të ndërtuar aftësi të forta sot, për mundësitë e së nesërmes.",
+      "years": "vjeç",
+      "learnMore": "Mëso më shumë",
+      "p1": { "step": "Hapi i parë", "desc": "Logjikë dhe konceptet bazë të programimit, nga blloqet e para deri te Scratch.", "meta": "90 mësime · 4 etapa", "li1": "Mendon si programues para se të prekë tastierën", "li2": "Ndërton lojën e parë të tij që luhet" },
+      "p2": { "step": "Hapi tjetër", "desc": "Bazat e zhvillimit të web-it dhe aplikacioneve mobile, plus hyrje në AI.", "meta": "111 mësime · 4 etapa", "li1": "Kodim i vërtetë në JavaScript dhe Python", "li2": "Kupton bazat e machine learning" },
+      "p3": { "step": "Niveli i avancuar", "desc": "Zhvillim i plotë i aplikacioneve web, nga ideja te përdoruesit realë.", "meta": "172 mësime · 5 etapa", "li1": "Ndërton një portofol dhe CV që dallon", "li2": "Publikon produkte që arrijnë te përdoruesit realë" }
+    },
+    "info": {
+      "period": "Periudha", "periodVal": "Shtator–Korrik (10 muaj për vit akademik)",
+      "intensity": "Intensiteti", "intensityVal": "3 orë akademike në javë",
+      "group": "Madhësia e grupit", "groupVal": "8–20 nxënës",
+      "method": "Formati", "methodVal": "Online ose fizikisht"
+    },
+    "ecosystem": {
+      "eyebrow": "Ekosistemi",
+      "title": "Sistemet tona e bëjnë ndryshimin.",
+      "e1": { "title": "Houses", "text": "Mëson duke luajtur — detyrat, projektet dhe pjesëmarrja kthehen në progres dhe pikë për ekipin tënd." },
+      "e2": { "title": "Aplikacioni i Prindit", "text": "Shiko progresin e fëmijës në kohë reale — përditësime, mesazhe, orare dhe informacione kryesore në telefon." },
+      "e3": { "title": "DBlox", "text": "Platforma ku nxënësit shkruajnë kod të vërtetë dhe garojnë me rrjetin global të Digital School." },
+      "e4": { "title": "DSOS", "text": "Sistem AI që monitoron çdo klasë dhe ndihmon ekipin tonë të identifikojë dhe zgjidhë problemet herët." }
+    },
+    "quote": {
+      "text": "\"Teknologjia nuk mësohet duke e parë. Mësohet duke e krijuar.\"",
+      "cite": "— Filozofia mësimore e Digital School"
+    },
+    "blog": {
+      "eyebrow": "Nga blogu",
+      "title": "Ide, arritje dhe histori nga bota jonë digjitale.",
+      "viewAll": "Shiko të gjitha artikujt",
+      "readMore": "Lexo artikullin →",
+      "post1": { "date": "6 Shtator 2026", "title": "Kur Numrat Bëhen Inteligjencë", "text": "Junus Aziri fitoi vendin e 2-të Ari në Matematikë, Ari në Shkencë, dhe Bronz në AI Prompt Engineering në Romë." },
+      "post2": { "date": "6 Shtator 2026", "title": "Prompt. Kod. Dëshmi.", "text": "Bardh Sulimani fitoi Ari në AI Prompt Engineering dhe Argjend në Codementum në finalet e Romës." },
+      "post3": { "date": "6 Shtator 2026", "title": "Ari në Kod. Ari në AI.", "text": "Bora Abdili fitoi Ari si në Codementum ashtu edhe në AI Prompt Engineering në Romë." }
+    },
+    "cta": {
+      "title": "Fillo rrugëtimin drejt së ardhmes digjitale, sot.",
+      "lede": "Rezervo një orë provë falas në një nga gjashtë lokacionet tona, ose bashkohu online nga kudo."
+    },
+    "who4": {
+      "t1": "Kurrikulë e strukturuar", "d1": "E përditësuar rregullisht nga ekipi ynë R&D.",
+      "t2": "Instruktorë ekspertë", "d2": "Përvojë praktike në mësimdhënie.",
+      "t3": "Certifikatë", "d3": "Dhënë në përfundim.",
+      "t4": "Mbështetje e vazhdueshme", "d4": "Për nxënësit dhe prindërit njësoj."
+    }
+  },
+  "about": {
+    "eyebrow": "Rreth nesh",
+    "title": "Një shkollë e ndërtuar mbi teknologji.",
+    "lede": "Digital School është shkollë teknologjie për fëmijë dhe të rinj 8–18 vjeç, me fokus në programim dhe aftësi digjitale.",
+    "motto": {
+      "eyebrow": "Motoja jonë",
+      "title": "Improvizo. Kodo. Kapërce.",
+      "text": "Vizioni ynë është t'i pajisim fëmijët dhe të rinjtë me aftësitë që u duhen për të pasur sukses në një botë ku teknologjia dhe aftësitë digjitale janë pjesë e çdo profesioni.",
+      "card": "Një shkollë që ndërton edhe mjetet e veta."
+    },
+    "who": {
+      "eyebrow": "Rreth shkollës",
+      "title": "Kush jemi",
+      "c1": { "title": "Kush jemi", "text": "Shkollë e specializuar në edukimin teknologjik, me program të strukturuar, vlerësim të rregullt dhe fokus te progresi i secilit nxënës." },
+      "c2": { "title": "Çfarë kemi ndërtuar", "text": "Kurrikulë, platforma dhe sisteme të zhvilluara brenda Digital School — si dhe instruktorë të trajnuar sipas së njëjtës metodologji." },
+      "c3": { "title": "Çfarë ofrojmë", "text": "Mësim fizikisht ose online. Përmes programimit, nxënësit zhvillojnë aftësi digjitale, mendim kritik, kreativitet dhe aftësi për zgjidhjen e problemeve." },
+      "c4": { "title": "Përtej klasës", "text": "Mësimi vazhdon përmes projekteve, sfidave, komunitetit dhe ekosistemit më të gjerë të Digital School." }
+    },
+    "presence": {
+      "eyebrow": "Prezenca jonë",
+      "title": "Ku ndodhemi",
+      "lede": "Nxënësit tanë janë pjesë e një komuniteti ndërkombëtar Digital School, me qendra në vende të ndryshme të botës. Digital School Macedonia është pjesë e rrjetit global Digital School.",
+      "hq": "Zyra qendrore",
+      "branch": "Degë",
+      "viewAll": "Shiko të gjitha lokacionet dhe kontaktet"
+    },
+    "global": {
+      "eyebrow": "Rrjeti global",
+      "title": "Digital School në mbarë botën",
+      "lede": "Përmes këtij rrjeti ndërkombëtar ndajmë përvoja, metodologji, ide dhe mundësi bashkëpunimi me qendrat e Digital School në vende të ndryshme.",
+      "origin": "🇽🇰 Kosovë — Origjina · 11 qytete"
+    },
+    "founders": {
+      "eyebrow": "Themeluesit",
+      "title": "Bashkë-themeluesit e Digital School Macedonia",
+      "meetTeam": "Njihu me të gjithë ekipin",
+      "p1": {
+        "role": "Bashkë-Themeluese & CEO",
+        "bio": "Arjeta e ka ndërtuar karrierën e saj në pikëtakimin mes arsimit, menaxhimit dhe zhvillimit të njerëzve. Magjistre në Fakultetin Teknologjik-Metalurgjik të Universitetit 'Shën Kirili dhe Metodi' në Shkup dhe inxhiniere në Biokimi, ajo sjell mbi 25 vjet përvojë në arsimin formal dhe mbi 20 vjet në arsimin joformal. Që nga viti 2004 ka drejtuar institucione private arsimore. Në Digital School Macedonia, ajo udhëheq me bindjen se arsimimi nuk duhet vetëm t'i përgatisë të rinjtë për të ardhmen — duhet t'u japë guximin dhe aftësinë për ta krijuar atë."
+      },
+      "p2": {
+        "role": "Bashkë-Themelues & CTO",
+        "bio": "Azir është profesor universitar dhe Doktor i Shkencave Kompjuterike. Si Bashkë-Themelues dhe CTO, ai është përgjegjës për kurrikulën, inovacionin dhe drejtimin teknologjik të akademisë. Me përvojë të gjatë në arsimin e lartë, kërkimin shkencor, inteligjencën artificiale dhe transformimin digjital, ai është gjithashtu mentor startup-esh dhe ka hartuar programe dhe strategji inovative në nivel shtetëror. Është i certifikuar në Transformim Digjital nga MIT Professional Education, SHBA. Në Digital School Macedonia, ai udhëheq zhvillimin e programeve me një ide të qartë: fëmijët nuk duhet të rriten vetëm si përdorues të teknologjisë, por si krijues të saj — të aftë të mendojnë, eksperimentojnë dhe ndërtojnë atë që sot ende nuk ekziston."
+      }
+    }
+  },
+  "programs": {
+    "eyebrow": "Programet & kurrikula",
+    "title": "Aftësi që zhvillohen, nivel pas niveli.",
+    "lede": "Jo thjesht një kurs — një shkollë me sisteme. Çdo program ndërtohet mbi një kurrikulë të strukturuar, të mbështetur nga R&D.",
+    "schedule": "Orari",
+    "scheduleVal": "Hënë–Mërkurë, Martë–Enjte, Premte ose Shtunë",
+    "p1": {
+      "subtitle": "Bazat. Pa sintaksë ende.",
+      "desc": "Fëmijët mësojnë të mendojnë si programues para se të prekin tastierën: e ndajnë një ide në hapa, e ndërtojnë dhe e shohin duke funksionuar.",
+      "li1": "Ndan një ide në hapa që funksionojnë",
+      "li2": "Ndërton lojën e parë të tij që luhet",
+      "li3": "Zbulon pse diçka nuk funksionon dhe e rregullon",
+      "li4": "Prezanton punën e vet para klasës"
+    },
+    "p2": {
+      "subtitle": "Lojëra që lëvizin. AI që mëson.",
+      "desc": "Nxënësit kalojnë te kodimi i vërtetë — JavaScript dhe Python — dhe marrin hyrjen e tyre të parë praktike në AI dhe machine learning.",
+      "li1": "Krijon lojëra që të tjerët mund t'i luajnë vërtet",
+      "li2": "Shkruan kod të vërtetë në JavaScript dhe Python",
+      "li3": "Kupton si funksionon machine learning",
+      "li4": "Shpjegon qartë zgjidhjet e veta teknike"
+    },
+    "p3": {
+      "subtitle": "Ndërton produkte. Ndërton inteligjencë.",
+      "desc": "Zhvillim i plotë web dhe aplikacionesh, nga ideja e parë deri te një produkt që arrin përdorues realë — plus AI e aplikuar.",
+      "li1": "Zhvillon një produkt të plotë nga fillimi në fund",
+      "li2": "Publikon një aplikacion mobil",
+      "li3": "Trajnon modele mbi të dhëna reale",
+      "li4": "Ndërton një portofol profesional"
+    },
+    "rhythm": {
+      "eyebrow": "Ritmi i një ore mësimore",
+      "title": "80 minuta. Pesë faza.",
+      "lede": "Çdo orë mësimore ndjek një ritëm të qartë, që nxënësit të dinë gjithmonë çfarë vjen më pas dhe të përqendrohen te krijimi.",
+      "s1": "Rikujtim", "s2": "Koncept i ri", "s3": "Krijim i pavarur", "s4": "Sfidë ose garë", "s5": "Kuiz përmbyllës"
+    },
+    "rnd": {
+      "eyebrow": "Kurrikula & R&D",
+      "title": "Kurrikula jonë është një nga vlerat tona kryesore.",
+      "lede": "Digital School e ka ndërtuar kurrikulën e vet si një nga vlerat kryesore të shkollës. Ekipi ynë R&D integron vazhdimisht risitë teknologjike në të, që çdo instruktor të dijë saktësisht çfarë të mësojë, si ta mësojë dhe cilat mjete të përdorë."
+    },
+    "eco": {
+      "e1": "Mëson duke luajtur. Detyrat, projektet dhe pjesëmarrja kthehen në progres dhe pikë për ekipin e secilit nxënës, duke ndërtuar konkurrencë të shëndetshme dhe punë ekipore.",
+      "e2": "Prindërit ndjekin progresin në kohë reale: pjesëmarrjen, arritjet, mesazhet direkte me instruktorët dhe orarin e klasës, gjithçka nga telefoni.",
+      "e3": "Platforma jonë e vetë-zhvilluar e kodimit, ku nxënësit shkruajnë dhe dorëzojnë kod të vërtetë, marrin reagim të menjëhershëm dhe garojnë me bashkëmoshatarë në rrjetin global të Digital School.",
+      "e4": "Sistem AI që monitoron vazhdimisht performancën dhe angazhimin në klasë, duke sinjalizuar herët kur një nxënës ose grup ka nevojë për mbështetje shtesë."
+    },
+    "opp": {
+      "eyebrow": "Mundësitë",
+      "title": "Bursa, praktika dhe shpërblime.",
+      "lede": "Përmes garave, projekteve dhe angazhimit në komunitetin e Digital School, nxënësit mund të fitojnë bursa, praktika dhe shpërblime të tjera.",
+      "n1": "01", "t1": "Pjesëmarrje në gara ndërkombëtare",
+      "n2": "02", "t2": "Rezultatet në garat vjetore të Digital School",
+      "n3": "03", "t3": "Arritjet në Houses dhe angazhimi në Qeverinë e Nxënësve",
+      "n4": "04", "t4": "Rezultatet në gara dhe aktivitete lokale"
+    }
+  },
+  "team": {
+    "eyebrow": "Ekipi ynë",
+    "title": "Njerëzit prapa Digital School.",
+    "lede": "Themelues, dizajnues kurrikulash dhe instruktorë të trajnuar sipas së njëjtës metodologji mësimore.",
+    "roles": {
+      "eyebrow": "Ekipi mësimdhënës",
+      "title": "Një metodologji, mësuar nga specialistë.",
+      "lede": "Çdo instruktor i Digital School trajnohet mbi të njëjtën kurrikulë dhe strukturë mësimi, më pas specializohet sipas lëndës dhe grupmoshës.",
+      "r1": { "title": "Instruktorë Programimi", "text": "Drejtojnë orët javore në të tri grupmoshat, nga logjika me blloqe deri te JavaScript dhe Python." },
+      "r2": { "title": "Instruktorë AI & Robotikë", "text": "Udhëheqin nxënësit nëpër bazat e machine learning, trajnimin e të dhënave dhe projekte praktike robotike." },
+      "r3": { "title": "Ekipi i Kurrikulës & R&D", "text": "Përditësojnë vazhdimisht përmbajtjen dhe mjetet mësimore, që çdo klasë të pasqyrojë më të fundit në teknologji dhe pedagogji." },
+      "r4": { "title": "Mbështetje për Nxënës & Prindër", "text": "Mentorim i vazhdueshëm për nxënësit dhe komunikim i qartë me prindërit gjatë gjithë programit." }
+    },
+    "join": {
+      "title": "Dëshiron t'i bashkohesh ekipit tonë mësimdhënës?",
+      "lede": "Gjithmonë kërkojmë njerëz që e duan teknologjinë dhe duan ta mësojnë atë. Na kontakto dhe na trego pak për veten.",
+      "cta": "Na Kontakto"
+    }
+  },
+  "blog": {
+    "title": "Ide, arritje dhe histori.",
+    "lede": "Lajme, suksese, projekte dhe risi nga nxënësit, ekipi dhe komuniteti i Digital School.",
+    "post1": { "text": "Nxënësi i Digital School, Junus Aziri, përfaqësoi shkollën në një garë ndërkombëtare në Romë, duke fituar vendin e 2-të Ari në Matematikë, Ari në Shkencë dhe Bronz në AI Prompt Engineering — dëshmi që aftësitë e forta logjike të ndërtuara në klasë përkthehen drejtpërdrejt në rezultate në skenën botërore." },
+    "post2": { "text": "Bardh Sulimani solli në shtëpi Ari në AI Prompt Engineering dhe Argjend në Codementum nga finalet e Romës, duke shfaqur njohuritë për AI që Digital School ndërton në çdo program të nivelit të avancuar." },
+    "post3": { "text": "Bora Abdili fitoi dy medalje Ari — në Codementum dhe në AI Prompt Engineering — duke kurorëzuar një vit të fortë për ekipin garues të Digital School në Romë." },
+    "post4": { "date": "28 Gusht 2026", "title": "Sezoni i Houses Fillon Përsëri", "text": "Sistemi ynë i gamifikuar Houses kthehet për një vit të ri akademik, duke kthyer çdo projekt, kuiz dhe sfidë në pikë për ekipin tënd. Cila Houses do të fitojë kurorën këtë vit?" },
+    "post5": { "date": "14 Gusht 2026", "title": "Një Vështrim më i Afërt te Aplikacioni i Prindit", "text": "Shiko si prindërit në Shkup, Tetovë dhe Kumanovë përdorin Aplikacionin e Prindit të Digital School për të ndjekur progresin e mësimit, për të komunikuar me instruktorët dhe për të mbajtur shënim orarin." },
+    "post6": { "date": "2 Gusht 2026", "title": "Zgjerimi i Rrjetit Global", "text": "Rrjeti ndërkombëtar i Digital School vazhdon të zgjerohet, duke lidhur nxënësit në Maqedoninë e Veriut me bashkëmoshatarë dhe mentorë në më shumë se një duzinë vendesh." },
+    "share": { "lede": "Nëse fëmija juaj ka një projekt, çmim ose arritje për të festuar, do të donim ta prezantonim në blog." }
+  },
+  "success": {
+    "eyebrow": "Storie suksesi",
+    "title": "Rezultate që i matim me atë ku përfundojnë nxënësit.",
+    "lede": "Nuk e matim suksesin vetëm me certifikatë, por me rrugët që marrin nxënësit tanë pas diplomimit.",
+    "stat1": { "label": "Alumni në teknologji", "text": "Vazhdojnë në studime ose karriera të lidhura me teknologjinë pas përfundimit të programeve tona." },
+    "stat2": { "label": "Familje që na besojnë", "text": "Prindër në të gjithë Maqedoninë e Veriut i kanë regjistruar fëmijët e tyre në një program të Digital School." },
+    "stat3": { "value": "14+ vende", "label": "Rrjet global i alumnëve", "text": "Nxënësit mbeten të lidhur me një komunitet ndërkombëtar në rritje të Digital School." },
+    "medals": { "eyebrow": "Finalet e Romës 2026", "title": "Nxënësit tanë në skenën ndërkombëtare." },
+    "medal1": "Vendi i 2-të Ari — Matematikë · Ari — Shkencë · Bronz — AI Prompt Engineering",
+    "medal2": "Ari — AI Prompt Engineering · Argjend — Codementum",
+    "medal3": "Ari — Codementum · Ari — AI Prompt Engineering",
+    "alumni": {
+      "eyebrow": "Rrjeti i alumnëve",
+      "title": "Rrugëtimi vazhdon edhe pas diplomimit.",
+      "lede": "Digital School mban lidhjen me nxënësit edhe pas përfundimit të programit, përmes komunitetit Alumni, takimeve dhe mundësive për zhvillim të mëtejshëm. Rrjeti Alumni krijon hapësirë për të ndarë përvoja, për të zhvilluar portofolin dhe për të ruajtur lidhjen me teknologjinë, studimet dhe industrinë.",
+      "c1": { "title": "Takime komuniteti", "text": "Takime të rregullta i mbajnë alumnët të lidhur me njëri-tjetrin dhe me Digital School." },
+      "c2": { "title": "Mbështetje për portofol", "text": "Udhëzime për të kthyer projektet e shkollës në një portofol profesional." },
+      "c3": { "title": "Udhëzim për rrugën e mëtejshme", "text": "Mbështetje për orientim drejt studimeve të mëtejshme ose hyrjes në industrinë e teknologjisë." }
+    }
+  },
+  "contact": {
+    "eyebrow": "Na kontaktoni",
+    "title": "Le të flasim për hapin tjetër të fëmijës tuaj.",
+    "lede": "Na kontaktoni me telefon, email, ose formularin më poshtë — ose na gjeni në një nga gjashtë lokacionet tona në Maqedoninë e Veriut.",
+    "form": {
+      "eyebrow": "Dërgo një mesazh",
+      "title": "Kërko informacion",
+      "success": "Faleminderit! Mesazhi juaj u pranua — ekipi ynë do t'ju kontaktojë shpejt.",
+      "name": "Emri i plotë",
+      "email": "Adresa e email-it",
+      "phone": "Numri i telefonit",
+      "city": "Lokacioni i preferuar",
+      "online": "Online",
+      "message": "Mesazhi",
+      "messagePh": "Na tregoni moshën e fëmijës suaj dhe çfarë ju intereson...",
+      "submit": "Dërgo Mesazhin",
+      "note": "Duke dërguar këtë formular pajtoheni me <a href=\"privacy.html\">Politikën e Privatësisë</a> tonë.",
+      "errRequired": "Ky fushë është e detyrueshme.",
+      "errEmail": "Ju lutemi shkruani një adresë email të vlefshme."
+    },
+    "loc": {
+      "skopje": { "addr": "Emin Duraku 1a, Shkup" },
+      "tetovo": { "addr": "Rr. Strasho Pindjur 64, Tetovë" },
+      "kumanovo": { "addr": "Rr. Goce Delçev 64, Kumanovë" },
+      "debar": { "addr": "Urfi Agolli, Dibër" }
+    },
+    "map": { "eyebrow": "Na gjeni", "title": "Zyra jonë qendrore në Shkup" }
+  },
+  "privacy": {
+    "eyebrow": "Ligjore",
+    "title": "Politika e Privatësisë & Cookies",
+    "lede": "Si Digital School Macedonia mbledh, përdor dhe mbron informacionin tuaj.",
+    "s1": { "title": "1. Informacioni që mbledhim", "text": "Kur plotësoni formularin tonë të kontaktit ose regjistrimit, mbledhim informacionin që na jepni drejtpërdrejt: emrin, adresën e email-it, numrin e telefonit, lokacionin e preferuar dhe përmbajtjen e mesazhit. Nuk mbledhim informacione pagese apo dokumentesh identiteti përmes këtij faqe interneti." },
+    "s2": { "title": "2. Si e përdorim informacionin tuaj", "text": "E përdorim informacionin që dërgoni për t'iu përgjigjur kërkesës suaj, për t'ju dhënë detaje mbi programet tona, dhe nëse regjistroheni, për të menaxhuar regjistrimin e fëmijës suaj. Nuk e shesim apo japim me qira informacionin tuaj personal te palë të treta." },
+    "s3": { "title": "3. Ruajtja e të dhënave", "text": "I ruajmë të dhënat e dërguara përmes formularit vetëm sa kohë është e nevojshme për t'iu përgjigjur kërkesës suaj ose, për nxënësit e regjistruar, gjatë kohëzgjatjes së programit plus çdo periudhë të kërkuar me ligj." },
+    "s4": { "title": "4. Të drejtat tuaja", "text": "Mund të kërkoni akses, korrigjim ose fshirje të të dhënave tuaja personale në çdo kohë duke na kontaktuar në <a href=\"mailto:info@digitalschool.com.mk\">info@digitalschool.com.mk</a>." },
+    "s5": { "title": "5. Cookies", "text": "Përdorim cookies rreptësisht të domosdoshme për të ruajtur zgjedhjen tuaj për cookies dhe për të mbështetur veprime që nisni vetë, si dërgimi i një formulari. Me pëlqimin tuaj, përdorim gjithashtu cookies analitike (si Google Analytics) dhe reklamuese (si Meta Pixel) për të kuptuar vizitat në faqe dhe për të matur performancën e fushatave tona. Mund t'i refuzoni në çdo kohë — faqja punon njësoj në çdo rast." },
+    "s6": { "title": "6. Kontakt", "text": "Pyetjet rreth kësaj politike mund të dërgohen në <a href=\"mailto:info@digitalschool.com.mk\">info@digitalschool.com.mk</a> ose në cilindo nga lokacionet tona të listuara në <a href=\"contact.html\">faqen e Kontaktit</a>." },
+    "updated": "Përditësuar për herë të fundit: Shtator 2026.",
+    "cookieTable": {
+      "necessaryLabel": "Të domosdoshme",
+      "necessaryDesc": "Të nevojshme që faqja të funksionojë (p.sh. ruajtja e zgjedhjes suaj për cookies, dërgimi i formularit). Gjithmonë aktive.",
+      "analyticsLabel": "Analitike",
+      "analyticsDesc": "Google Analytics — na ndihmon të kuptojmë si e përdorin vizitorët faqen. Opsionale.",
+      "marketingLabel": "Marketing",
+      "marketingDesc": "Meta Pixel — na ndihmon të matim performancën e reklamave tona në rrjetet sociale. Opsionale."
+    }
+  }
+}

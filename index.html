@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Digital School Macedonia — Coding, AI & Robotics for Kids and Teens</title>
+<meta name="description" content="Digital School Macedonia teaches programming, AI, robotics and digital skills to children and young people aged 8–18, online or in person, across six cities.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect rx=%2222%22 width=%22100%22 height=%22100%22 fill=%22%234F46E5%22/><text x=%2250%22 y=%2266%22 font-size=%2250%22 fill=%22white%22 text-anchor=%22middle%22 font-family=%22Arial%22>DS</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<svg style="display:none" aria-hidden="true">
+<defs>
+<symbol id="i-cap" viewBox="0 0 24 24"><path d="M2 8l10-5 10 5-10 5-10-5z"/><path d="M6 10.5V16c0 1.5 2.5 3 6 3s6-1.5 6-3v-5.5"/><path d="M22 8v6"/></symbol>
+<symbol id="i-wrench" viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 1 0-5.4 5.4L3 18v3h3l6.3-6.3a4 4 0 0 0 5.4-5.4l-2.8 2.8-2-2 2.8-2.8z"/></symbol>
+<symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18"/><path d="M12 3a14 14 0 0 0 0 18"/></symbol>
+<symbol id="i-rocket" viewBox="0 0 24 24"><path d="M12 2c3 2 5 6 5 10 0 2-1 4-2 5l-3 3-3-3c-1-1-2-3-2-5 0-4 2-8 5-10z"/><circle cx="12" cy="10" r="1.6"/><path d="M8 17l-3 4M16 17l3 4"/></symbol>
+<symbol id="i-trophy" viewBox="0 0 24 24"><path d="M8 4h8v4a4 4 0 0 1-8 0V4z"/><path d="M8 5H4v2a4 4 0 0 0 4 4"/><path d="M16 5h4v2a4 4 0 0 1-4 4"/><path d="M12 13v3"/><path d="M9 20h6"/><path d="M10 16h4l1 4H9l1-4z"/></symbol>
+<symbol id="i-phone" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2"/><path d="M11 18h2"/></symbol>
+<symbol id="i-code" viewBox="0 0 24 24"><path d="M8 6L2 12l6 6"/><path d="M16 6l6 6-6 6"/></symbol>
+<symbol id="i-robot" viewBox="0 0 24 24"><rect x="4" y="8" width="16" height="10" rx="2"/><circle cx="9" cy="13" r="1.3"/><circle cx="15" cy="13" r="1.3"/><path d="M12 8V4"/><circle cx="12" cy="3" r="1"/><path d="M2 12h2M20 12h2"/></symbol>
+<symbol id="i-book" viewBox="0 0 24 24"><path d="M4 4h7a3 3 0 0 1 3 3v13a3 3 0 0 0-3-2H4V4z"/><path d="M20 4h-7a3 3 0 0 0-3 3v13a3 3 0 0 1 3-2h7V4z"/></symbol>
+<symbol id="i-teacher" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M3 20c0-3.5 2.7-6 6-6s6 2.5 6 6"/><path d="M17 11l1.5 1.5L22 9"/></symbol>
+<symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="9" r="5"/><path d="M9 13.5L7 21l5-3 5 3-2-7.5"/></symbol>
+<symbol id="i-support" viewBox="0 0 24 24"><circle cx="8" cy="10" r="3"/><circle cx="16" cy="10" r="3"/><path d="M2 20c0-3 2.5-5 6-5s6 2 6 5"/><path d="M10 20c0-3 2.5-5 6-5s6 2 6 5" opacity="0.55"/></symbol>
+<symbol id="i-folder" viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7z"/></symbol>
+<symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1"/></symbol>
+<symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15 9l-2 6-6 2 2-6 6-2z"/></symbol>
+<symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5h16a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H9l-5 4v-4H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></symbol>
+<symbol id="i-house" viewBox="0 0 24 24"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></symbol>
+</defs>
+</svg>
+
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a href="index.html" class="brand">
+      <span class="brand-mark">DS</span>
+      <span>Digital School<br><small>MACEDONIA</small></span>
+    </a>
+    <nav class="main-nav" id="mainNav">
+      <a href="index.html" class="active" data-i18n="nav.home">Home</a>
+      <a href="about.html" data-i18n="nav.about">About</a>
+      <a href="programs.html" data-i18n="nav.programs">Programs</a>
+      <a href="team.html" data-i18n="nav.team">Team</a>
+      <a href="blog.html" data-i18n="nav.blog">Blog</a>
+      <a href="success-stories.html" data-i18n="nav.success">Success Stories</a>
+      <a href="privacy.html" data-i18n="nav.privacy">Privacy</a>
+      <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      <a href="contact.html" class="btn btn-cta btn-block nav-enroll-mobile" data-i18n="nav.enroll">Enroll Now</a>
+    </nav>
+    <div class="nav-actions">
+      <div class="lang-switch">
+        <button class="lang-btn" id="langBtn" aria-haspopup="true"><svg class="icon-svg icon-sm"><use href="#i-globe"/></svg><span id="langBtnLabel">EN</span></button>
+        <div class="lang-menu" id="langMenu">
+          <button data-lang="en" class="active">🇬🇧 English</button>
+          <button data-lang="sq">🇦🇱 Shqip</button>
+          <button data-lang="mk">🇲🇰 Македонски</button>
+        </div>
+      </div>
+      <a href="contact.html" class="btn btn-cta" data-i18n="nav.enroll">Enroll Now</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <span class="hero-tag"><span data-i18n="home.hero.tag">Trusted by 10,000+ parents in North Macedonia</span></span>
+        <h1 data-i18n="home.hero.title">From <span class="accent">users</span> to creators of technology.</h1>
+        <p class="lede" data-i18n="home.hero.lede">Programming, AI, robotics and digital skills for children and young people, aged 8 to 18 — online or in person, at six locations across the country.</p>
+        <div class="hero-actions">
+          <a href="contact.html" class="btn btn-cta" data-i18n="home.hero.cta1">Enroll Now</a>
+          <a href="programs.html" class="btn btn-ghost-light" data-i18n="home.hero.cta2">Explore Programs</a>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <div class="hero-panel-stat">
+          <strong>10,000+</strong>
+          <span data-i18n="home.hero.chip1">Parents who trust us</span>
+        </div>
+        <div class="hero-panel-divider"></div>
+        <div class="hero-panel-stat">
+          <strong>90%+</strong>
+          <span data-i18n="home.hero.chip2">Alumni in tech studies or careers</span>
+        </div>
+        <div class="hero-panel-divider"></div>
+        <div class="hero-panel-stat" style="margin-bottom:0;">
+          <strong>6</strong>
+          <span data-i18n="home.hero.chip4">Cities across North Macedonia</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <div class="stats-bar">
+    <div class="stats-bar-item">
+      <strong>10,000+</strong>
+      <div class="stat-label" data-i18n="home.stats.card1.label">Parents who trust us</div>
+      <p data-i18n="home.stats.card1.text">We're not just a school — we're an edtech R&D company that builds its own teaching methodology from the ground up.</p>
+      <a href="about.html" class="stat-link" data-i18n="home.stats.card1.link">About us →</a>
+    </div>
+    <div class="stats-bar-item">
+      <strong data-i18n="home.stats.card2.value">4 systems</strong>
+      <div class="stat-label" data-i18n="home.stats.card2.label">Working behind every lesson</div>
+      <p data-i18n="home.stats.card2.text">DBlox, Houses, the Parent App and DSOS — AI monitors every class and flags when a group starts falling behind.</p>
+      <a href="programs.html" class="stat-link" data-i18n="home.stats.card2.link">See the ecosystem →</a>
+    </div>
+    <div class="stats-bar-item">
+      <strong>90%+</strong>
+      <div class="stat-label" data-i18n="home.stats.card3.label">Alumni in tech</div>
+      <p data-i18n="home.stats.card3.text">We don't measure results with a certificate, but with where our students end up after they graduate.</p>
+      <a href="success-stories.html" class="stat-link" data-i18n="home.stats.card3.link">Success stories →</a>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="container">
+    <div class="section-head center">
+      <span class="eyebrow" data-i18n="home.programs.eyebrow">Programs by age group</span>
+      <h2 data-i18n="home.programs.title">Choose the right program for your child's age and level.</h2>
+      <p class="lede" data-i18n="home.programs.lede">Our programs are structured by age group and learning intensity, to build strong skills today for tomorrow's opportunities.</p>
+    </div>
+    <div class="grid grid-3">
+      <div class="card program-card">
+        <span class="tag-pill" data-i18n="home.programs.p1.step">First step</span>
+        <div class="program-age">8–11 <span data-i18n="home.programs.years">years</span></div>
+        <p data-i18n="home.programs.p1.desc">Logic and the basics of programming, from first blocks to Scratch.</p>
+        <div class="program-meta"><span data-i18n="home.programs.p1.meta">90 lessons · 4 stages</span></div>
+        <ul>
+          <li data-i18n="home.programs.p1.li1">Thinks like a programmer before touching a keyboard</li>
+          <li data-i18n="home.programs.p1.li2">Builds their first playable game</li>
+        </ul>
+        <a href="programs.html" class="btn btn-outline btn-block" data-i18n="home.programs.learnMore">Learn more</a>
+      </div>
+      <div class="card program-card step-2">
+        <span class="tag-pill" data-i18n="home.programs.p2.step">Next step</span>
+        <div class="program-age">12–15 <span data-i18n="home.programs.years">years</span></div>
+        <p data-i18n="home.programs.p2.desc">Foundations of web and mobile development, plus an introduction to AI.</p>
+        <div class="program-meta"><span data-i18n="home.programs.p2.meta">111 lessons · 4 stages</span></div>
+        <ul>
+          <li data-i18n="home.programs.p2.li1">Real coding in JavaScript and Python</li>
+          <li data-i18n="home.programs.p2.li2">Understands the basics of machine learning</li>
+        </ul>
+        <a href="programs.html" class="btn btn-outline btn-block" data-i18n="home.programs.learnMore">Learn more</a>
+      </div>
+      <div class="card program-card step-3">
+        <span class="tag-pill" data-i18n="home.programs.p3.step">Advanced level</span>
+        <div class="program-age">16–18+ <span data-i18n="home.programs.years">years</span></div>
+        <p data-i18n="home.programs.p3.desc">Full web application development, from idea to real users.</p>
+        <div class="program-meta"><span data-i18n="home.programs.p3.meta">172 lessons · 5 stages</span></div>
+        <ul>
+          <li data-i18n="home.programs.p3.li1">Builds a portfolio and a CV that stands out</li>
+          <li data-i18n="home.programs.p3.li2">Ships products that reach real users</li>
+        </ul>
+        <a href="programs.html" class="btn btn-outline btn-block" data-i18n="home.programs.learnMore">Learn more</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="container">
+    <div class="info-strip">
+      <div><strong data-i18n="home.info.period">Period</strong><span data-i18n="home.info.periodVal">September–July (10 months per academic year)</span></div>
+      <div><strong data-i18n="home.info.intensity">Intensity</strong><span data-i18n="home.info.intensityVal">3 academic hours per week</span></div>
+      <div><strong data-i18n="home.info.group">Group size</strong><span data-i18n="home.info.groupVal">8–20 students</span></div>
+      <div><strong data-i18n="home.info.method">Format</strong><span data-i18n="home.info.methodVal">Online or in person</span></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-head center">
+      <span class="eyebrow" data-i18n="home.ecosystem.eyebrow">The ecosystem</span>
+      <h2 data-i18n="home.ecosystem.title">Our systems make the difference.</h2>
+    </div>
+    <div class="grid grid-4">
+      <div class="card eco-card">
+        <div class="icon-badge"><svg class="icon-svg"><use href="#i-trophy"/></svg></div>
+        <h3 data-i18n="home.ecosystem.e1.title">Houses</h3>
+        <p data-i18n="home.ecosystem.e1.text">Learning through play — tasks, projects and participation turn into progress and points for your team.</p>
+      </div>
+      <div class="card eco-card">
+        <div class="icon-badge"><svg class="icon-svg"><use href="#i-phone"/></svg></div>
+        <h3 data-i18n="home.ecosystem.e2.title">Parent App</h3>
+        <p data-i18n="home.ecosystem.e2.text">See your child's progress in real time — updates, messages, schedules and key information on your phone.</p>
+      </div>
+      <div class="card eco-card">
+        <div class="icon-badge"><svg class="icon-svg"><use href="#i-code"/></svg></div>
+        <h3 data-i18n="home.ecosystem.e3.title">DBlox</h3>
+        <p data-i18n="home.ecosystem.e3.text">The platform where students write real code and compete against the global Digital School network.</p>
+      </div>
+      <div class="card eco-card">
+        <div class="icon-badge"><svg class="icon-svg"><use href="#i-robot"/></svg></div>
+        <h3 data-i18n="home.ecosystem.e4.title">DSOS</h3>
+        <p data-i18n="home.ecosystem.e4.text">An AI system that monitors every class and helps our team spot and solve problems early.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="container">
+    <div class="quote-card">
+      <p data-i18n="home.quote.text">"Technology is not learned by watching. It is learned by creating."</p>
+      <cite data-i18n="home.quote.cite">— The Digital School teaching philosophy</cite>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="flex-between section-head" style="margin-bottom:32px;">
+      <div>
+        <span class="eyebrow" data-i18n="home.blog.eyebrow">From the blog</span>
+        <h2 class="mt-0" data-i18n="home.blog.title">Ideas, achievements and stories from our digital world.</h2>
+      </div>
+      <a href="blog.html" class="btn btn-outline" data-i18n="home.blog.viewAll">View all posts</a>
+    </div>
+    <div class="grid grid-3">
+      <div class="card blog-card">
+        <div class="blog-thumb"><svg class="icon-svg icon-lg"><use href="#i-award"/></svg></div>
+        <div class="blog-date" data-i18n="home.blog.post1.date">6 September 2026</div>
+        <h3 data-i18n="home.blog.post1.title">When Numbers Become Intelligence</h3>
+        <p data-i18n="home.blog.post1.text">Junus Aziri won 2nd place in Gold Mathematics, Gold Science, and Bronze AI Prompt Engineering in Rome.</p>
+        <a href="blog.html" data-i18n="home.blog.readMore">Read the article →</a>
+      </div>
+      <div class="card blog-card">
+        <div class="blog-thumb"><svg class="icon-svg icon-lg"><use href="#i-award"/></svg></div>
+        <div class="blog-date" data-i18n="home.blog.post2.date">6 September 2026</div>
+        <h3 data-i18n="home.blog.post2.title">Prompt. Code. Evidence.</h3>
+        <p data-i18n="home.blog.post2.text">Bardh Sulimani earned Gold in AI Prompt Engineering and Silver in Codementum at the Rome finals.</p>
+        <a href="blog.html" data-i18n="home.blog.readMore">Read the article →</a>
+      </div>
+      <div class="card blog-card">
+        <div class="blog-thumb"><svg class="icon-svg icon-lg"><use href="#i-award"/></svg></div>
+        <div class="blog-date" data-i18n="home.blog.post3.date">6 September 2026</div>
+        <h3 data-i18n="home.blog.post3.title">Gold in Code. Gold in AI.</h3>
+        <p data-i18n="home.blog.post3.text">Bora Abdili took home Gold in both Codementum and AI Prompt Engineering in Rome.</p>
+        <a href="blog.html" data-i18n="home.blog.readMore">Read the article →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="container">
+    <div class="cta-band">
+      <div class="cta-band-text">
+      <h2 data-i18n="home.cta.title">Start the journey to a digital future, today.</h2>
+      <p class="lede" data-i18n="home.cta.lede">Book a free trial class at one of our six locations, or join us online from anywhere.</p>
+          </div>
+      <a href="contact.html" class="btn btn-cta" data-i18n="home.hero.cta1">Enroll Now</a>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="brand" style="color:#fff">
+          <span class="brand-mark">DS</span><span>Digital School</span>
+        </a>
+        <p data-i18n="footer.about">From users to creators of technology. Programming, AI, robotics and digital skills for children and young people across North Macedonia.</p>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/digitalschoolmk" target="_blank" rel="noopener" aria-label="Facebook">FB</a>
+          <a href="https://www.instagram.com/dsmacedonia/" target="_blank" rel="noopener" aria-label="Instagram">IG</a>
+          <a href="https://www.youtube.com/@digitalschoolmacedonia" target="_blank" rel="noopener" aria-label="YouTube">YT</a>
+          <a href="https://www.linkedin.com/company/20141187/" target="_blank" rel="noopener" aria-label="LinkedIn">in</a>
+        </div>
+      </div>
+      <div>
+        <h4 data-i18n="footer.explore">Explore</h4>
+        <a href="about.html" data-i18n="nav.about">About</a>
+        <a href="programs.html" data-i18n="nav.programs">Programs</a>
+        <a href="team.html" data-i18n="nav.team">Team</a>
+        <a href="blog.html" data-i18n="nav.blog">Blog</a>
+        <a href="success-stories.html" data-i18n="nav.success">Success Stories</a>
+      </div>
+      <div>
+        <h4 data-i18n="footer.locations">Locations</h4>
+        <a href="contact.html">Skopje</a>
+        <a href="contact.html">Tetovo</a>
+        <a href="contact.html">Kumanovo</a>
+        <a href="contact.html">Gostivar · Debar · Struga</a>
+      </div>
+      <div>
+        <h4 data-i18n="footer.contact">Contact</h4>
+        <a href="mailto:info@digitalschool.com.mk">info@digitalschool.com.mk</a>
+        <a href="tel:+38970224372">+389 70 224 372</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact page</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Digital School Macedonia. <span data-i18n="footer.rights">All rights reserved.</span></span>
+      <div class="footer-bottom-links">
+        <a href="privacy.html" data-i18n="footer.privacy">Privacy Policy</a>
+        <a href="privacy.html#cookies" data-i18n="footer.cookies">Cookies</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" id="cookieBanner">
+  <h4 data-i18n="cookies.title">We value your privacy</h4>
+  <p data-i18n="cookies.text">Would you like to allow optional analytics cookies to help us understand site visits, or continue with only the essential cookies needed to run the site?</p>
+  <div class="cookie-actions">
+    <button class="btn btn-cta" id="cookieAcceptAll" data-i18n="cookies.acceptAll">Accept All Cookies</button>
+    <button class="btn btn-outline" id="cookieRejectAll" data-i18n="cookies.rejectAll">Essential Only</button>
+    <a href="privacy.html#cookies" class="btn btn-outline" data-i18n="cookies.manage">Manage</a>
+  </div>
+</div>
+
+<script src="js/i18n-data.js"></script>
+<script src="js/i18n.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
